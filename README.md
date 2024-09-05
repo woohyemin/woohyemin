@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Hyemin Woo. 👋
 
-<!--
-**woohyemin/woohyemin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend developer focused on creating better user experiences.
 
-Here are some ideas to get you started:
+##### Tech
+![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js Badge](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Blog
+[Blog](https://blog-woohyemins-projects.vercel.app)
+
+##### Contact
+[![woo28870826@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:woo28870826@gmail.com)](mailto:woo28870826@gmail.com)
