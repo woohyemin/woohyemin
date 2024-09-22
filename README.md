@@ -12,4 +12,4 @@ I am a frontend developer focused on creating better user experiences.
 [![Blog Badge](https://img.shields.io/badge/Hyemin's_Blog-292929?style=for-the-badge&&logo=nextdotjs&logoColor=fff)](https://blog-woohyemins-projects.vercel.app)
 
 ###### Contact
-[![woo28870826@gmail.com](https://img.shields.io/badge/Gmail-292929?style=for-the-badge&&logo=gmail&logoColor=D14836&link=mailto:woo28870826@gmail.com)](mailto:woo28870826@gmail.com)
+[![woo28870826@gmail.com](https://img.shields.io/badge/Email-292929?style=for-the-badge&&logo=gmail&logoColor=D14836&link=mailto:woo28870826@gmail.com)](mailto:woo28870826@gmail.com)
