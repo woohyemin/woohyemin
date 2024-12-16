@@ -9,7 +9,7 @@ I am a frontend developer focused on creating better user experiences.
 ![Tailwind_CSS Badge](https://img.shields.io/badge/Tailwind_CSS-292929?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
 
 ###### Blog
-[![Blog Badge](https://img.shields.io/badge/Hyemin's_Blog-292929?style=for-the-badge&&logo=nextdotjs&logoColor=fff)](https://blog-woohyemins-projects.vercel.app)
+[![Blog Badge](https://img.shields.io/badge/Hyemin's_Blog-292929?style=for-the-badge&&logo=nextdotjs&logoColor=fff)](https://www.woohyemin.com)
 
 ###### Contact
 [![woo28870826@gmail.com](https://img.shields.io/badge/Email-292929?style=for-the-badge&&logo=gmail&logoColor=D14836&link=mailto:woo28870826@gmail.com)](mailto:woo28870826@gmail.com)
